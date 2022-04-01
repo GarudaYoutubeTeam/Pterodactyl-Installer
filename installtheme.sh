@@ -77,7 +77,7 @@ done=false
 
 echo
 print_brake 70
-echo "* Pterodactyl-Themes Script @ $SCRIPT_VERSION"
+echo "* Pterodactyl-Themes Script"
 echo
 echo "* Copyright (C) 2021 - $(date +%Y), GarudaYoutubeTeam"
 echo "* https://github.com/GarudaYoutubeTeam/Pterodactyl-Installer"
@@ -123,12 +123,6 @@ while [ "$done" == false ]; do
   options=(
     "Restore Panel Backup (Only if you have an installation problem.)"
     "Install Dracula (Only 1.6.6 and 1.7.0)"
-    "Install Enola (Only 1.6.6 and 1.7.0)"
-    "Install Twilight (Only 1.6.6 and 1.7.0)"
-    "Install Zing Theme (Only 1.6.6 and 1.7.0)"
-    "Install Flanco Theme (Only 1.6.6 and 1.7.0)"
-    "Install Background Video (Only 1.6.6 and 1.7.0)"
-    "Install Animated Graphics (Only 1.6.6 and 1.7.0)"
     
     
     "Cancel Installation"
@@ -137,12 +131,6 @@ while [ "$done" == false ]; do
   actions=(
     "Backup"
     "Dracula"
-    "Enola"
-    "Twilight"
-    "ZingTheme"
-    "FlancoTheme"
-    "BackgroundVideo"
-    "AnimatedGraphics"
     
     
     "cancel"
