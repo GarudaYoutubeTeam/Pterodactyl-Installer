@@ -65,7 +65,7 @@ bash <(curl -s https://raw.githubusercontent.com/GarudaYoutubeTeam/Pterodactyl-I
 
 <h1 align="center">Files In Editor</h1>
 
-![1](https://user-images.githubusercontent.com/69549678/147832828-0f28f1a2-e24b-4e3f-b680-0641e981d6f5.PNG)
+![1](https://media.discordapp.net/attachments/933332331404615751/959281047344914442/Screen_Shot_2022-04-01_at_09.39.18.png)
 
 
 
