@@ -85,3 +85,16 @@ PMA Button NavBar | 1.x
 
 ![2](https://user-images.githubusercontent.com/69549678/146855735-2d93da13-12e2-4315-b663-5d0a7074a7da.PNG)
 ![3](https://user-images.githubusercontent.com/69549678/146855742-3563c915-3add-4b4c-a627-0cecb1b996a1.PNG)
+
+
+
+More Server Info | 1.x
+
+![2](https://user-images.githubusercontent.com/69549678/146674182-f2e3ba7e-9cc0-4e6c-a398-8a4b96e37f59.PNG)
+
+
+
+MC Paste | 1.x
+
+![1](https://user-images.githubusercontent.com/69549678/147749744-fdbd53a7-621f-441a-afbc-db57d8fa7c8e.PNG)
+![2](https://user-images.githubusercontent.com/69549678/147749757-d1a6b001-034b-428b-a179-f5659ad9792c.PNG)
