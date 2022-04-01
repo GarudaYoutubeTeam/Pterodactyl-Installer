@@ -53,5 +53,5 @@ Image :
 
 Install :
 ```
-curl https://raw.githubusercontent.com/XxJustinxX1016/Ptero-Stuff-Installer/main/installer/themes/unix/unix.sh | sh
+curl https://raw.githubusercontent.com/GarudaYoutubeTeam/Pterodactyl-Installer/main/installer/themes/unix/unix.sh | sh
 ```
