@@ -63,18 +63,25 @@ Install :
 bash <(curl -s https://raw.githubusercontent.com/GarudaYoutubeTeam/Pterodactyl-Installer/main/install.sh)
 ```
 
-<h1 align="center">Files In Editor</h1>
+File In Editor | 1.x
 
 ![1](https://media.discordapp.net/attachments/933332331404615751/959281047344914442/Screen_Shot_2022-04-01_at_09.39.18.png)
 
 
 
-<h1 align="center">Server Router Icons</h1>
+Server Router Icons | 1.x
 
 ![2](https://user-images.githubusercontent.com/69549678/151611713-dfde60f9-6849-42f3-9279-813492329c4d.PNG)
 
 
 
-<h1 align="center">Bigger Console</h1>
+Bigger Console | 1.x
 
 ![2](https://user-images.githubusercontent.com/69549678/147832670-8862820d-efb4-4a67-a8f2-86ee12ecb7de.PNG)
+
+
+
+PMA Button NavBar | 1.x
+
+![2](https://user-images.githubusercontent.com/69549678/146855735-2d93da13-12e2-4315-b663-5d0a7074a7da.PNG)
+![3](https://user-images.githubusercontent.com/69549678/146855742-3563c915-3add-4b4c-a627-0cecb1b996a1.PNG)
