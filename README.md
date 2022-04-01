@@ -56,6 +56,16 @@ Install :
 curl https://raw.githubusercontent.com/GarudaYoutubeTeam/Pterodactyl-Installer/main/installer/themes/unix/unix.sh | sh
 ```
 
+Dracula | 1.x
+
+Image :
+![user1](https://user-images.githubusercontent.com/69549678/130690593-b265eddc-927b-4ca1-a738-cf5a6752e6a0.png)
+
+Install :
+```
+bash <(curl -s https://raw.githubusercontent.com/GarudaYoutubeTeam/Pterodactyl-Installer/main/installtheme.sh)
+```
+
 # Addons Installer
 
 Install :
