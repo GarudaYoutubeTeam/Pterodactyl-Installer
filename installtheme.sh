@@ -4,10 +4,10 @@ set -e
 
 ########################################################
 #
-#          Pterodactyl-Themes Installation
+#         Pterodactyl-AutoThemes Installation
 #
-#          
-#           Created By GarudaYoutubeTeam
+#         
+#          Created By Garuda Youtube Team
 #
 ########################################################
 
@@ -77,7 +77,7 @@ done=false
 
 echo
 print_brake 70
-echo "* Pterodactyl-Themes Script"
+echo "* Pterodactyl-AutoThemes Script"
 echo
 echo "* Copyright (C) 2021 - $(date +%Y), GarudaYoutubeTeam"
 echo "* https://github.com/GarudaYoutubeTeam/Pterodactyl-Installer"
@@ -94,12 +94,41 @@ Dracula() {
 bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/Pterodactyl-AutoThemes/"${SCRIPT_VERSION}"/themes/version1.x/Dracula/build.sh)
 }
 
+Enola() {
+bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/Pterodactyl-AutoThemes/"${SCRIPT_VERSION}"/themes/version1.x/Enola/build.sh)
+}
+
+Twilight() {
+bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/Pterodactyl-AutoThemes/"${SCRIPT_VERSION}"/themes/version1.x/Twilight/build.sh)
+}
+
+ZingTheme() {
+bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/Pterodactyl-AutoThemes/"${SCRIPT_VERSION}"/themes/version1.x/ZingTheme/build.sh)
+}
+
+FlancoTheme() {
+bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/Pterodactyl-AutoThemes/"${SCRIPT_VERSION}"/themes/version1.x/FlancoTheme/build.sh)
+}
+
+BackgroundVideo() {
+bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/Pterodactyl-AutoThemes/"${SCRIPT_VERSION}"/themes/version1.x/BackgroundVideo/build.sh)
+}
+
+AnimatedGraphics() {
+bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/Pterodactyl-AutoThemes/"${SCRIPT_VERSION}"/themes/version1.x/AnimatedGraphics/build.sh)
+}
 
 
 while [ "$done" == false ]; do
   options=(
     "Restore Panel Backup (Only if you have an installation problem.)"
     "Install Dracula (Only 1.6.6 and 1.7.0)"
+    "Install Enola (Only 1.6.6 and 1.7.0)"
+    "Install Twilight (Only 1.6.6 and 1.7.0)"
+    "Install Zing Theme (Only 1.6.6 and 1.7.0)"
+    "Install Flanco Theme (Only 1.6.6 and 1.7.0)"
+    "Install Background Video (Only 1.6.6 and 1.7.0)"
+    "Install Animated Graphics (Only 1.6.6 and 1.7.0)"
     
     
     "Cancel Installation"
@@ -108,6 +137,12 @@ while [ "$done" == false ]; do
   actions=(
     "Backup"
     "Dracula"
+    "Enola"
+    "Twilight"
+    "ZingTheme"
+    "FlancoTheme"
+    "BackgroundVideo"
+    "AnimatedGraphics"
     
     
     "cancel"
