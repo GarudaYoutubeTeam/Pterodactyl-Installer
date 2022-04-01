@@ -65,32 +65,16 @@ bash <(curl -s https://raw.githubusercontent.com/GarudaYoutubeTeam/Pterodactyl-I
 
 <h1 align="center">Files In Editor</h1>
 
-### Before:
-![1](https://user-images.githubusercontent.com/69549678/147832767-78dae49c-ca0b-405e-9e8b-9a94aa0662c2.PNG)
-
-
-### After:
 ![1](https://user-images.githubusercontent.com/69549678/147832828-0f28f1a2-e24b-4e3f-b680-0641e981d6f5.PNG)
 
 
 
 <h1 align="center">Server Router Icons</h1>
 
-### Before:
-![1](https://user-images.githubusercontent.com/69549678/151611693-9f5a4b1a-0146-4472-9266-40f805915f4a.PNG)
-
-
-### After:
 ![2](https://user-images.githubusercontent.com/69549678/151611713-dfde60f9-6849-42f3-9279-813492329c4d.PNG)
 
 
 
 <h1 align="center">Bigger Console</h1>
 
-
-### Before:
-![1](https://user-images.githubusercontent.com/69549678/147832634-370916c0-8523-443e-9059-4eb45b82ab5b.PNG)
-
-
-### After:
 ![2](https://user-images.githubusercontent.com/69549678/147832670-8862820d-efb4-4a67-a8f2-86ee12ecb7de.PNG)
