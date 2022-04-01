@@ -8,8 +8,6 @@ set -e
 #
 #           Created by Garuda Youtube Team
 #
-#            Protected by GPL 3.0 License
-#
 ########################################################
 
 # Get the latest version before running the script #
